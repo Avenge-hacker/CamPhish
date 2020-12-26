@@ -1,6 +1,6 @@
 # CamPhish
 Grab cam shots from target's phone front camera or Android webcam just sending a link.
-![Screenshot_20201207-193130](https://user-images.githubusercontent.com/74916451/101361673-4ad33300-38c5-11eb-9e4c-477f83b2dd0c.png)
+![Screenshot 2020-12-26 20:25:03](https://user-images.githubusercontent.com/76620513/103153722-97b97380-47b8-11eb-96f0-870e6249f089.png)
 
 
 # What is CamPhish?
