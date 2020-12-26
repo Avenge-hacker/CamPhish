@@ -16,7 +16,7 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n\n"
 
-printf " \e[1;77m avengeyt.cf | youtube.com/AvengeYT \e[0m \n"
+printf " \e[1;77m avengehacker.cf | youtube.com/AvengeYT \e[0m \n"
 
 printf "\n"
 
